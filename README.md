@@ -4,7 +4,7 @@ This repository contains a fun experiment demonstrating a random walk using Vue 
 
 ## Demo
 
-[View Demo](#)
+[View Demo](https://www.outwest.dev/posts/canvas-random-walk)
 
 ## Setup
 
